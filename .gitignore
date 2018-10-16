@@ -1,5 +1,5 @@
 
 *.idea
 
-conf/*.json
+conf/
 node_modules/
